@@ -1,0 +1,35 @@
+
+
+# Chat Application in C
+
+A simple TCP-based chat application developed using the C programming language and socket programming.
+
+## Features
+
+- Client-server communication
+- Real-time message exchange
+- Simple terminal interface
+- TCP socket programming
+- Lightweight and fast
+
+## Technologies Used
+
+- C Language
+- Socket Programming
+- TCP/IP Networking
+- Linux/Unix System Calls
+
+## Project Structure
+
+chat-application/
+│
+├── main.c
+├── README.md
+└── Makefile
+
+## How to Compile
+
+Use GCC compiler:
+
+```bash
+gcc main.c -o chat
